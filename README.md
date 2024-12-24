@@ -6,5 +6,5 @@
    ```
 # features
 
-1. basic to do app
+1. basic todo app
    
